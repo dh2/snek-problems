@@ -46,7 +46,9 @@ For example, given the following tree:
 
 You should return 45, as it is (3 + 2) * (4 + 5).
 
+------
 
+This really became an exercise in data structures for bulding the Binary Tree in Level order with Python while being mostly encapsulated within the singular TreeNode class. 
 
 # Interview Code Challenge [Decode Input]
 
